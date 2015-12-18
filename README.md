@@ -1,0 +1,2 @@
+# KuizuServer
+Kuizu game server
