@@ -1,4 +1,4 @@
-(kuizu logo)[http://sora.eliteheberg.fr/wp-content/uploads/logo.png]
+![kuizu log](http://sora.eliteheberg.fr/wp-content/uploads/logo.png)
 
 # KuizuServer
 
