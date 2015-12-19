@@ -12,10 +12,10 @@ every player's knowledge. It uses Elo rating for ranking.
 ## About the server
 
 Kuizu game server respects the game specifications 
-which you can read about it here (http://sora.eliteheberg.fr/uploads/kuizu_spec.pdf!)[http://sora.eliteheberg.fr/uploads/kuizu_spec.pdf]
+which you can read about it here [http://sora.eliteheberg.fr/uploads/kuizu_spec.pdf](http://sora.eliteheberg.fr/uploads/kuizu_spec.pdf)
 
 The server also adds a very basic monitoring functionalities, the monitoring
-client can be found here (https://github.com/SoraSoftworks/KuizuMonitor!)[https://github.com/SoraSoftworks/KuizuMonitor]
+client can be found here (will be uploaded soon)
 
 ## Installing
 
